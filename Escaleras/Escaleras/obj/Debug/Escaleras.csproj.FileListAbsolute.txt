@@ -1,0 +1,7 @@
+C:\Users\moral\source\repos\Escaleras\Escaleras\bin\Debug\Escaleras.exe.config
+C:\Users\moral\source\repos\Escaleras\Escaleras\bin\Debug\Escaleras.exe
+C:\Users\moral\source\repos\Escaleras\Escaleras\bin\Debug\Escaleras.pdb
+C:\Users\moral\source\repos\Escaleras\Escaleras\obj\Debug\Escaleras.csproj.AssemblyReference.cache
+C:\Users\moral\source\repos\Escaleras\Escaleras\obj\Debug\Escaleras.csproj.CoreCompileInputs.cache
+C:\Users\moral\source\repos\Escaleras\Escaleras\obj\Debug\Escaleras.exe
+C:\Users\moral\source\repos\Escaleras\Escaleras\obj\Debug\Escaleras.pdb
