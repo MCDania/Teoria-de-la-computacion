@@ -1,0 +1,7 @@
+C:\Users\moral\source\repos\array casero\array casero\bin\Debug\array casero.exe.config
+C:\Users\moral\source\repos\array casero\array casero\bin\Debug\array casero.exe
+C:\Users\moral\source\repos\array casero\array casero\bin\Debug\array casero.pdb
+C:\Users\moral\source\repos\array casero\array casero\obj\Debug\array casero.csproj.AssemblyReference.cache
+C:\Users\moral\source\repos\array casero\array casero\obj\Debug\array casero.csproj.CoreCompileInputs.cache
+C:\Users\moral\source\repos\array casero\array casero\obj\Debug\array casero.exe
+C:\Users\moral\source\repos\array casero\array casero\obj\Debug\array casero.pdb
