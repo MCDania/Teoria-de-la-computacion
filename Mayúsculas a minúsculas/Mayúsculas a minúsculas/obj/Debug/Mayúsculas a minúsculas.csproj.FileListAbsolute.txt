@@ -1,0 +1,7 @@
+C:\Users\moral\source\repos\Mayúsculas a minúsculas\Mayúsculas a minúsculas\bin\Debug\Mayúsculas a minúsculas.exe.config
+C:\Users\moral\source\repos\Mayúsculas a minúsculas\Mayúsculas a minúsculas\bin\Debug\Mayúsculas a minúsculas.exe
+C:\Users\moral\source\repos\Mayúsculas a minúsculas\Mayúsculas a minúsculas\bin\Debug\Mayúsculas a minúsculas.pdb
+C:\Users\moral\source\repos\Mayúsculas a minúsculas\Mayúsculas a minúsculas\obj\Debug\Mayúsculas a minúsculas.csproj.AssemblyReference.cache
+C:\Users\moral\source\repos\Mayúsculas a minúsculas\Mayúsculas a minúsculas\obj\Debug\Mayúsculas a minúsculas.csproj.CoreCompileInputs.cache
+C:\Users\moral\source\repos\Mayúsculas a minúsculas\Mayúsculas a minúsculas\obj\Debug\Mayúsculas a minúsculas.exe
+C:\Users\moral\source\repos\Mayúsculas a minúsculas\Mayúsculas a minúsculas\obj\Debug\Mayúsculas a minúsculas.pdb
